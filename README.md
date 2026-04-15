@@ -46,9 +46,8 @@ This project provides an **End-to-End Analysis** of the AI and Data Science job 
 * **Work Model Dynamics:** There is a significant shift towards **Hybrid and Remote** models, specifically for Mid-to-Senior level positions.
 
 ## 📁 Repository Structure
-* `AI_Trend_Analytics_2026.pbix`: The core Power BI Dashboard file.
-* `AI_Market_Detailed_Report.pdf`: A print-friendly PDF version of the dashboard and detailed data tables.
-* `Dataset/`: The raw data used for the analysis (CSV/Excel).
+* `2026-04-15_19-17-15-998`: The core Power BI Dashboard file.
+* `AI_trend_analytics_2026.pbix`: The raw data used for the analysis (CSV/Excel).
 
 ## 👤 Contact & Author
 **Urvashi**
